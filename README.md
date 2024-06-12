@@ -2,6 +2,8 @@
 
 Chrome 126 supports “cross-document view transitions”.
 
+[Demo is here 🚀](https://0js-view-transition.zeabur.app/blog)
+
 To enable it, you only need to add a `@view-transition` to your website style:
 
 ```css
